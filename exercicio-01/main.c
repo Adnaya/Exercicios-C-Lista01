@@ -19,4 +19,6 @@ int main(){
     numSuce =(numero+1);
 
     printf("O numero antecessor de %d e %d, e seu sucessor e %d.",numero,numAnte,numSuce);
+
+    return 0;
 }
