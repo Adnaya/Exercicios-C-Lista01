@@ -5,7 +5,7 @@
 #include <math.h>
 
 /* Exercício 01 */
-/* Desenvolva um algoritmo, utilizando pseudocódigo, que leia um número inteiro e imprima o seu antecessor e seu sucessor.*/
+/* Desenvolva um algoritmo que leia um número inteiro e imprima o seu antecessor e seu sucessor.*/
 
 int main(){
 
