@@ -1,2 +1,3 @@
-# Exercicios-C-Lista01
-Resolução de lista de exercício lógicos em C passados na matéria de Algoritmos e Linguagem de Programação
+# Lista de exercícios em C
+
+Resolução de lista de exercícios de prática de lógica em C.
