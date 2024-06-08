@@ -8,17 +8,7 @@
 valores do cálculo de A! e o seu resultado. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120. */
 
 int main(){
-	setlocale(LC_ALL,"Portuguese");
-
-    int a, resultado;
-
-    printf("Digite um número inteiro para mostar o seu fatorial:\n");
-    scanf("%d",&a);
-    
-    
-    
-
-    printf("= %d",resultado);
+		setlocale(LC_ALL,"Portuguese");
 
 	return 0;
 }
